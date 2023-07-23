@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/logo.png" width=200 height=200>
+    <img src="https://github.com/Swift-Swap/backend/blob/main/assets/logo.png?raw=true" width=200 height=200>
 </div>
 
 # Introduction
